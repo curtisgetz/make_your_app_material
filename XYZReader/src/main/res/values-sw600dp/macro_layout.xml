@@ -1,4 +1,7 @@
 <resources>
+
+    <dimen name="article_name_text_size">20sp</dimen>
+
     <!-- detail -->
     <dimen name="detail_photo_height">384dp</dimen>
     <dimen name="detail_card_top_margin">384dp</dimen>
