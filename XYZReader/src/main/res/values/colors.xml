@@ -28,8 +28,13 @@
     <color name="red500">#E65540</color>
     <color name="red700">#DF4432</color>
 
+    <color name="purpledark">#3f1dcb</color>
+
     <color name="green_a200">#AEFDD8</color>
     <color name="green_a800">#41F997</color>
-    
+
+    <color name="detail_dark_text">#212121</color>
+    <color name="detail_title_text">#fff</color>
+    <color name="detail_subtitle_date">#8fff</color>
 
 </resources>

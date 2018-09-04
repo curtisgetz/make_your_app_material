@@ -245,7 +245,7 @@ public class ArticleDetailFragment extends Fragment implements
                                 Palette p = Palette.generate(bitmap, 12);
                                 mMutedColor = p.getDarkMutedColor(0xFF333333);
                                 mPhotoView.setImageBitmap(imageContainer.getBitmap());
-                                //set FAB color to muted color
+                                //set FAB color to match meta_bar
                                 mRootView.findViewById(R.id.share_fab)
                                         .setBackgroundTintList(ColorStateList.valueOf(mMutedColor));
                                 mRootView.findViewById(R.id.meta_bar)
