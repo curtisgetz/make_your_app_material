@@ -9,5 +9,6 @@
 
     <string name="up">Up</string>
     <string name="main_toolbar_cd">Business man reading a newspaper</string>
+    <string name="transition_article_photo">photoTransition</string>
 
 </resources>
